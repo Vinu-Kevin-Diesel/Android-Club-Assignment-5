@@ -1,4 +1,4 @@
-## Redux App with Hooks
+# Redux App with Hooks
 
 YouTube Link : https://www.youtube.com/watch?v=jTJ6zo5GO7E
 
